@@ -1,0 +1,5 @@
+.Net Core API yazımınıda Çeşitli nugetleri ekledim. Identity, DepencyInjection, Automapper, Fluent API ve Migrations. Veri tabanına tabloları Code first mantığıyla olusturdum 2 tane de 
+bizim için önemi olmayan tabloları fluent API yöntemini kullanmak için birbirlerine anahtar vererek yazdım. React.js de Axios kütüphanesi ile web servislerdeki data ları aldım
+Veri tabanı backup ını aldım gönderiyorum
+Kolay Gelsin
+İyi günler :)
